@@ -1,0 +1,104 @@
+2017-03-22 12:29:49,459 [INFO]: loading data
+2017-03-22 12:30:00,338 [INFO]: Dataset summary
+2017-03-22 12:30:00,339 [INFO]: #13584 training items with #28617 training links
+2017-03-22 12:30:00,339 [INFO]: #3396 testing items with #14273 testing links
+2017-03-22 12:30:00,343 [INFO]: initializing rvae model
+2017-03-22 12:30:04,446 [INFO]: Loading weights from model/pretrain
+2017-03-22 12:30:43,227 [INFO]: loading data
+2017-03-22 12:30:53,981 [INFO]: Dataset summary
+2017-03-22 12:30:53,981 [INFO]: #13584 training items with #28617 training links
+2017-03-22 12:30:53,981 [INFO]: #3396 testing items with #14273 testing links
+2017-03-22 12:30:53,984 [INFO]: initializing rvae model
+2017-03-22 12:30:57,378 [INFO]: Loading weights from model/pretrain
+2017-03-22 12:31:29,983 [INFO]: loading data
+2017-03-22 12:31:40,453 [INFO]: Dataset summary
+2017-03-22 12:31:40,453 [INFO]: #13584 training items with #28617 training links
+2017-03-22 12:31:40,453 [INFO]: #3396 testing items with #14273 testing links
+2017-03-22 12:31:40,456 [INFO]: initializing rvae model
+2017-03-22 12:31:43,803 [INFO]: Loading weights from model/pretrain
+2017-03-22 12:34:16,478 [INFO]: [#epoch=000000], loss=875845.94744, neg_likelihood=22097.52733, gen_loss=100.55930, ave_rank=3787.6224, ave_auc=0.7620
+2017-03-22 12:36:38,288 [INFO]: [#epoch=000001], loss=866121.44126, neg_likelihood=15213.98947, gen_loss=100.22467, ave_rank=4060.6961, ave_auc=0.7609
+2017-03-22 12:39:01,159 [INFO]: [#epoch=000002], loss=888032.09289, neg_likelihood=9729.95956, gen_loss=103.45137, ave_rank=3593.0812, ave_auc=0.7827
+2017-03-22 12:41:21,405 [INFO]: [#epoch=000003], loss=863902.93921, neg_likelihood=6421.81319, gen_loss=100.99895, ave_rank=3778.0549, ave_auc=0.7865
+2017-03-22 12:43:42,003 [INFO]: [#epoch=000004], loss=902269.89272, neg_likelihood=5118.52401, gen_loss=105.67154, ave_rank=2870.0734, ave_auc=0.8288
+2017-03-22 12:46:02,164 [INFO]: [#epoch=000005], loss=884245.32752, neg_likelihood=4911.09229, gen_loss=103.57294, ave_rank=2726.3378, ave_auc=0.8385
+2017-03-22 12:48:22,817 [INFO]: [#epoch=000006], loss=874847.30249, neg_likelihood=4680.46915, gen_loss=102.49315, ave_rank=2475.0293, ave_auc=0.8525
+2017-03-22 12:50:44,185 [INFO]: [#epoch=000007], loss=817875.58894, neg_likelihood=4515.68552, gen_loss=95.80211, ave_rank=2358.6586, ave_auc=0.8536
+2017-03-22 12:53:06,059 [INFO]: [#epoch=000008], loss=886236.88617, neg_likelihood=4331.65882, gen_loss=103.87576, ave_rank=2215.3588, ave_auc=0.8634
+2017-03-22 12:55:27,233 [INFO]: [#epoch=000009], loss=881384.71109, neg_likelihood=4111.31143, gen_loss=103.33020, ave_rank=2120.0768, ave_auc=0.8665
+2017-03-22 12:57:48,950 [INFO]: [#epoch=000010], loss=811606.56464, neg_likelihood=3971.34842, gen_loss=95.12782, ave_rank=2599.6025, ave_auc=0.8418
+2017-03-22 13:00:11,259 [INFO]: [#epoch=000011], loss=866788.94805, neg_likelihood=3709.89669, gen_loss=101.65831, ave_rank=2420.4830, ave_auc=0.8535
+2017-03-22 13:02:33,047 [INFO]: [#epoch=000012], loss=875836.82922, neg_likelihood=3450.59463, gen_loss=102.75456, ave_rank=2283.8004, ave_auc=0.8598
+2017-03-22 13:04:58,651 [INFO]: [#epoch=000013], loss=839937.61474, neg_likelihood=3288.63708, gen_loss=98.54523, ave_rank=2264.2824, ave_auc=0.8626
+2017-03-22 13:07:35,388 [INFO]: [#epoch=000014], loss=815949.30813, neg_likelihood=3085.37586, gen_loss=95.74369, ave_rank=2042.8792, ave_auc=0.8731
+2017-03-22 13:10:16,041 [INFO]: [#epoch=000015], loss=816786.06356, neg_likelihood=2974.23503, gen_loss=95.85534, ave_rank=2169.7203, ave_auc=0.8665
+2017-03-22 13:12:51,638 [INFO]: [#epoch=000016], loss=842174.19036, neg_likelihood=2811.45964, gen_loss=98.86487, ave_rank=2332.7139, ave_auc=0.8670
+2017-03-22 13:15:25,270 [INFO]: [#epoch=000017], loss=813054.56742, neg_likelihood=2659.15551, gen_loss=95.45293, ave_rank=2271.9639, ave_auc=0.8672
+2017-03-22 13:18:14,437 [INFO]: [#epoch=000018], loss=820974.31474, neg_likelihood=2505.20250, gen_loss=96.40390, ave_rank=2072.3362, ave_auc=0.8696
+2017-03-22 13:20:54,938 [INFO]: [#epoch=000019], loss=834780.61427, neg_likelihood=2417.12008, gen_loss=98.04046, ave_rank=2191.1160, ave_auc=0.8697
+2017-03-22 13:23:27,141 [INFO]: [#epoch=000020], loss=828339.40460, neg_likelihood=2308.17360, gen_loss=97.29461, ave_rank=2233.3423, ave_auc=0.8646
+2017-03-22 13:25:53,563 [INFO]: [#epoch=000021], loss=854667.45515, neg_likelihood=2237.82472, gen_loss=100.40396, ave_rank=2049.5754, ave_auc=0.8754
+2017-03-22 13:28:18,975 [INFO]: [#epoch=000022], loss=805839.95015, neg_likelihood=2224.84013, gen_loss=94.65431, ave_rank=2387.0708, ave_auc=0.8643
+2017-03-22 13:31:05,642 [INFO]: [#epoch=000023], loss=846596.74581, neg_likelihood=2037.10286, gen_loss=99.47699, ave_rank=2362.7193, ave_auc=0.8607
+2017-04-07 21:00:20,195 [INFO]: loading data
+2017-04-07 21:00:46,943 [INFO]: loading data
+2017-04-07 21:00:57,294 [INFO]: Dataset summary
+2017-04-07 21:00:57,302 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:00:57,302 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:00:57,307 [INFO]: initializing rvae model
+2017-04-07 21:10:39,393 [INFO]: loading data
+2017-04-07 21:10:49,688 [INFO]: Dataset summary
+2017-04-07 21:10:49,696 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:10:49,696 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:10:49,701 [INFO]: initializing rvae model
+2017-04-07 21:14:47,921 [INFO]: loading data
+2017-04-07 21:14:58,563 [INFO]: Dataset summary
+2017-04-07 21:14:58,563 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:14:58,564 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:14:58,567 [INFO]: initializing rvae model
+2017-04-07 21:17:22,182 [INFO]: loading data
+2017-04-07 21:17:32,100 [INFO]: Dataset summary
+2017-04-07 21:17:32,107 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:17:32,108 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:17:32,112 [INFO]: initializing rvae model
+2017-04-07 21:21:12,287 [INFO]: loading data
+2017-04-07 21:21:22,498 [INFO]: Dataset summary
+2017-04-07 21:21:22,506 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:21:22,506 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:21:22,510 [INFO]: initializing rvae model
+2017-04-07 21:21:58,152 [INFO]: loading data
+2017-04-07 21:22:09,365 [INFO]: Dataset summary
+2017-04-07 21:22:09,365 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:22:09,365 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:22:09,368 [INFO]: initializing rvae model
+2017-04-07 21:23:37,677 [INFO]: loading data
+2017-04-07 21:23:47,814 [INFO]: Dataset summary
+2017-04-07 21:23:47,822 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:23:47,822 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:23:47,826 [INFO]: initializing rvae model
+2017-04-07 21:26:45,464 [INFO]: loading data
+2017-04-07 21:26:56,224 [INFO]: Dataset summary
+2017-04-07 21:26:56,224 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:26:56,224 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:26:56,227 [INFO]: initializing rvae model
+2017-04-07 21:27:16,775 [INFO]: loading data
+2017-04-07 21:27:26,808 [INFO]: Dataset summary
+2017-04-07 21:27:26,816 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:27:26,817 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:27:26,820 [INFO]: initializing rvae model
+2017-04-07 21:30:59,138 [INFO]: loading data
+2017-04-07 21:31:09,180 [INFO]: Dataset summary
+2017-04-07 21:31:09,180 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:31:09,181 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:31:09,183 [INFO]: initializing rvae model
+2017-04-07 21:32:29,151 [INFO]: loading data
+2017-04-07 21:32:39,230 [INFO]: Dataset summary
+2017-04-07 21:32:39,239 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:32:39,240 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:32:39,244 [INFO]: initializing rvae model
+2017-04-07 21:36:11,333 [INFO]: loading data
+2017-04-07 21:36:21,369 [INFO]: Dataset summary
+2017-04-07 21:36:21,377 [INFO]: #13584 training items with #28617 training links
+2017-04-07 21:36:21,378 [INFO]: #3396 testing items with #14273 testing links
+2017-04-07 21:36:21,382 [INFO]: initializing rvae model
+2017-04-07 21:36:25,041 [INFO]: Loading weights from model/pretrain

@@ -1,0 +1,10 @@
+2017-03-20 17:06:14,583 [INFO]: loading data
+2017-03-20 17:06:28,081 [INFO]: initializing vae model
+2017-03-20 17:06:28,082 [INFO]: fitting data starts...
+2017-03-20 17:10:29,456 [INFO]: loading data
+2017-03-20 17:10:42,250 [INFO]: initializing vae model
+2017-03-20 17:10:42,259 [INFO]: fitting data starts...
+2017-03-20 17:12:16,308 [INFO]: loading data
+2017-03-20 17:12:28,859 [INFO]: initializing vae model
+2017-03-20 17:12:28,860 [INFO]: fitting data starts...
+2017-03-20 17:12:30,954 [INFO]: Loading weights from model/pretrain
