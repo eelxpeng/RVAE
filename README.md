@@ -1,4 +1,4 @@
-# Collaborative Variational Autoencoder
+# Relational Variational Autoencoder
 This code is associated with the following paper:
 
 Xiaopeng Li and James She. Relational Variational Autoencoder for Link Prediction with Multimedia Data. ACM International Conference on Multimedia Thematic Workshop, 2017 (MM'17).
