@@ -12,4 +12,4 @@ The program consists of two parts: pre-train in VAE manner and finetuning in RVA
 
 For generating the sweeping curves in the paper, the experiment code is experiment_rvae.py, where the latent dimension is varied with [5, 10, 20, 40, 50], and each experiment is repeated for 5 times.
 
-* The data for citeulike-t is added in data/citeulike-t. And the experiment code for citeulike-t is added for reference in citeulike-t/
+* The data for citeulike-t and arXiv is added in data/. And the experiment code for citeulike-t and arXiv is added for reference in citeulike-t/ and arXiv/
